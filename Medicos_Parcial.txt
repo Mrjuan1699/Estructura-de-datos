@@ -1,0 +1,3 @@
+[Medico{Id=3, Nombre=juan, Apellido=34, Edad=55, salBase=132434.0, incentivo=0.0}]
+[Medico{Id=99, Nombre=Padro, Apellido=sanchez, Edad=45, salBase=124550.0, incentivo=0.0}]
+

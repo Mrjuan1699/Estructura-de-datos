@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EPS_FV">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/EPS_FV.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
